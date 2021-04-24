@@ -7,6 +7,7 @@ import dto.B2BResendDTO;
 import util.Type;
 
 public class ApiMaker {
+	
 	private static final String HOST 			= 	"http://tcorp.zlgoon.com/";
 	
 	private static final String LSSEND 			= 	"lssend/";
